@@ -1,0 +1,213 @@
+#contentId .btn-default{
+    height: 100px;
+    width: 100px;
+}
+
+#contentId > div:nth-child(1) > div > button.btn.btn-default.conten1
+{
+    background-color: #ce1a57;
+    height: 75px;
+
+
+}
+#contentId > div:nth-child(1) > div > button
+{
+    background: #e91e63;
+    height: 75px;
+}
+#contentId > div:nth-child(1) > div > button:nth-child(2) > div
+{
+
+}
+#contentId > div:nth-child(1) > div > button:nth-child(2) > div.countcat
+{
+    color: white;
+    margin-top: -10px;
+    margin-left: -40px;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+#contentId > div:nth-child(1) > div > button:nth-child(2) > div.cat
+{
+    color: white;
+    font-size: 13px;
+    font-weight: 400;
+    margin-left: -10px;
+}
+
+#contentId > div:nth-child(2) > div > button:nth-child(2) > div.countnews{
+    color: white;
+    margin-top: -10px;
+    margin-left: -40px;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+#contentId > div:nth-child(2) > div > button:nth-child(2) > div.news{
+    color: white;
+    font-size: 13px;
+    font-weight: 400;
+    margin-left: -40px;
+}
+#contentId > div:nth-child(3) > div > button:nth-child(2) > div.user
+{
+    color: white;
+    font-size: 13px;
+    font-weight: 400;
+    margin-left: -40px;
+}
+#contentId > div:nth-child(3) > div > button:nth-child(2) > div.countuser
+{
+    color: white;
+    margin-top: -10px;
+    margin-left: -40px;
+    font-size: 30px;
+    font-weight: 700;
+}
+#contentId > div:nth-child(4) > div > button:nth-child(2) > div.user
+{
+    color: white;
+    font-size: 13px;
+    font-weight: 400;
+    margin-left: -30px;
+}
+#contentId > div:nth-child(4) > div > button:nth-child(2) > div.countuser
+{
+    color: white;
+    margin-top: -10px;
+    margin-left: -40px;
+    font-size: 30px;
+    font-weight: 700;
+}
+#contentId > div:nth-child(2) > div > button:nth-child(1){
+    background: #00a6bb;
+}
+#contentId > div:nth-child(2) > div > button:nth-child(2){
+    margin-right: 30px;
+    background: #00bcd4;
+    height: 75px;
+
+}
+#contentId > div:nth-child(3) > div > button:nth-child(1)
+{
+    background-color: #7bac41;
+    height: 75px;
+
+}
+#contentId > div:nth-child(4) > div > button:nth-child(1)
+{
+    background-color: #e18600;
+    height: 75px;
+
+}
+#contentId > div:nth-child(4) > div > button:nth-child(2)
+{
+   background-color:  #ff9800;
+    height: 75px;
+
+
+}
+
+
+
+#contentId > div:nth-child(3) > div > button:nth-child(2){
+background-color: #8bc34a;
+    height: 75px;
+}
+#contentId > div:nth-child(2) > div > button:nth-child(1)
+{
+    height: 75px;
+    background-color: #00a6bb;
+    icon: url("/src/images/avatar.png");
+}
+
+.quicklink .jumbotron
+{
+    padding: 0;
+    margin-right: 5px;
+
+}
+.quicklink .jumbotron h5, btn-primary {
+    padding: 10px;
+
+
+}
+.contentcounter .jumbotron
+{
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 5px;
+
+}
+.row .btn btn-default
+{
+    width: 100px;
+}
+
+.quicklink .jumbotron button {
+    padding: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.quicklink .jumbotron
+{
+    box-shadow: 0 0 30px #b3b3b3;
+    background-color: white;
+
+}
+
+.lastfivenews .jumbotron {
+    padding: 0px;
+    margin-right: 5px;
+
+}
+
+.lastfivenews .jumbotron .panel-title {
+    padding: 10px;
+}
+
+.lastfivenews .jumbotron
+{
+    box-shadow: 0 0 30px #b3b3b3;
+    background-color: white;
+}
+.lastfivenews .jumbotron .panel-title .table_row
+{
+    padding-top: 10px;
+
+}
+.lsb
+{
+    position: fixed;
+}
+.Home
+{
+    background-color: #e9ecef;
+}
+/*Quick Link settings*/
+#container > div > div > div > div > div.col-xs-9.col-md-9 > div.quicklink > div > button.btn.btn-success,
+button.btn.btn-danger,button.btn.btn-info,button.btn.btn-primary,button.btn.btn-warning
+{
+    height: 30px;
+    width: 120px;
+    padding-bottom: 30px;
+    font-size: 12px;
+    font-weight: 600;
+    color: white;
+}
+
+#container > div > div > div > div > div.col-xs-9.col-md-9 > div.quicklink > div > button.btn.btn-success > img,
+button.btn.btn-danger > img,button.btn.btn-primary > img, button.btn.btn-info > img,button.btn.btn-warning > img
+{
+    margin-right: 5px;
+}
+#container > div > div > div > div > div.col-xs-9.col-md-9 > div.quicklink > div > button.btn.btn-primary
+{
+    width: 150px;
+}
+#container > div > div > div > div > div.col-xs-9.col-md-9 > div.quicklink > div > div > div.panel-heading > h5
+{
+    font-weight: 400;
+    padding-left: 20px;
+}
